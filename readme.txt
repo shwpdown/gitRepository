@@ -1,5 +1,5 @@
 Git is a distributed version control system
-Gis is free software distributed under the GPL.
+Gis is a free software distributed under the GPL.
 Git has mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
