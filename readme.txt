@@ -4,3 +4,4 @@ Git has mutable index called stage.
 Git tracks changes of files.
 test
 My stupid boss still prefers SVN.
+test
